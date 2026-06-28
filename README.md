@@ -21,8 +21,7 @@ Bu projeye yeni takımlar, ligler veya eksik verileri ekleyerek katkıda bulunab
 4.  **Pull Request Gönderin:** "Contribute" > "Open pull request" yolunu izleyerek değişikliklerinizi bana gönderin.
 5.  **Onay:** Gönderdiğiniz veriler tarafımca incelenecek ve uygun bulunursa ana sisteme dahil edilecektir.
 
-## 🛡️ Güvenlik ve Denetim
-Sistem, verilerin bütünlüğünü korumak adına **"Protected Branch"** kuralı ile yönetilmektedir. Hiçbir dış müdahale doğrudan ana dosyayı etkileyemez; her değişiklik sizin onayınızdan geçmek zorundadır.
+
 
 ---
 *Bu sistem, spor istatistiklerine hızlı ve şeffaf bir erişim sağlamak amacıyla geliştirilmiştir.*
