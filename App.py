@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # GitHub'daki JSON dosyanın linki
-URL = 'https://raw.githubusercontent.com/kullanici-adiniz/repo-adiniz/main/takimlar.json'
+URL = 'https://raw.githubusercontent.com/mert-kekik/Futbolveri/refs/heads/main/Veri.json'
 
 st.title("Spor Veri Sorgulama")
 
