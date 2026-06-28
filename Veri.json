@@ -3,18 +3,14 @@
     "takimIsmi": "Galatasaray",
     "ülke": "Türkiye",
     "lig": "Süper Lig",
-    "ligSampiyonlugu": 25,
+    "ligSampiyonlugu": 26,
     "yerelKupaSampiyonlugu": 18,
     "superKupaSampiyonlugu": 17,
     "teknikDirektor": "Okan Buruk",
     "baskan": "Dursun Özbek",
     "renkler": ["Sarı", "Kırmızı"],
     "sonSezonSiralamasi": 1,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {
-      "uefaAvrupaLigi": 1,
-      "uefaSuperKupa": 1
-    }
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "fenerbahce": {
     "takimIsmi": "Fenerbahçe",
@@ -23,12 +19,11 @@
     "ligSampiyonlugu": 19,
     "yerelKupaSampiyonlugu": 7,
     "superKupaSampiyonlugu": 9,
-    "teknikDirektor": "Jose Mourinho",
-    "baskan": "Ali Koç",
+    "teknikDirektor": "İsmail Kartal",
+    "baskan": "Aziz Yıldırım",
     "renkler": ["Sarı", "Lacivert"],
     "sonSezonSiralamasi": 2,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "besiktas": {
     "takimIsmi": "Beşiktaş",
@@ -37,12 +32,11 @@
     "ligSampiyonlugu": 16,
     "yerelKupaSampiyonlugu": 11,
     "superKupaSampiyonlugu": 10,
-    "teknikDirektor": "Giovanni van Bronckhorst",
-    "baskan": "Hasan Arat",
+    "teknikDirektor": "Vincenzo Italiano",
+    "baskan": "Serdal Adalı",
     "renkler": ["Siyah", "Beyaz"],
-    "sonSezonSiralamasi": 3,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 4,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "trabzonspor": {
     "takimIsmi": "Trabzonspor",
@@ -51,12 +45,11 @@
     "ligSampiyonlugu": 7,
     "yerelKupaSampiyonlugu": 9,
     "superKupaSampiyonlugu": 10,
-    "teknikDirektor": "Şenol Güneş",
+    "teknikDirektor": "Fatih Tekke",
     "baskan": "Ertuğrul Doğan",
     "renkler": ["Bordo", "Mavi"],
-    "sonSezonSiralamasi": 4,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 3,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "basaksehir": {
     "takimIsmi": "Başakşehir",
@@ -65,12 +58,11 @@
     "ligSampiyonlugu": 1,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Çağdaş Atan",
+    "teknikDirektor": "Nuri Şahin",
     "baskan": "Göksel Gümüşdağ",
     "renkler": ["Turuncu", "Lacivert"],
     "sonSezonSiralamasi": 5,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "kasimpasa": {
     "takimIsmi": "Kasımpaşa",
@@ -79,12 +71,11 @@
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Sami Uğurlu",
+    "teknikDirektor": "Emre Belözoğlu",
     "baskan": "Turgay Ciner",
     "renkler": ["Mavi", "Beyaz"],
-    "sonSezonSiralamasi": 6,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 13,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "goztepe": {
     "takimIsmi": "Göztepe",
@@ -96,9 +87,8 @@
     "teknikDirektor": "Stanimir Stoilov",
     "baskan": "Rasmus Ankersen",
     "renkler": ["Sarı", "Kırmızı"],
-    "sonSezonSiralamasi": 7,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 6,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "samsunspor": {
     "takimIsmi": "Samsunspor",
@@ -107,54 +97,24 @@
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Thomas Reis",
+    "teknikDirektor": "Thorsten Fink",
     "baskan": "Yüksel Yıldırım",
     "renkler": ["Kırmızı", "Beyaz"],
-    "sonSezonSiralamasi": 8,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 7,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
-  "antalya": {
-    "takimIsmi": "Antalyaspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Alex de Souza",
-    "baskan": "Sinan Boztepe",
-    "renkler": ["Kırmızı", "Beyaz"],
-    "sonSezonSiralamasi": 9,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "rize": {
+  "rizespor": {
     "takimIsmi": "Çaykur Rizespor",
     "ülke": "Türkiye",
     "lig": "Süper Lig",
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "İlhan Palut",
+    "teknikDirektor": "Recep Uçar",
     "baskan": "İbrahim Turgut",
     "renkler": ["Yeşil", "Mavi"],
-    "sonSezonSiralamasi": 10,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "alanyaspor": {
-    "takimIsmi": "Alanyaspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Fatih Tekke",
-    "baskan": "Hasan Çavuşoğlu",
-    "renkler": ["Turuncu", "Yeşil"],
-    "sonSezonSiralamasi": 11,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 8,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "konyaspor": {
     "takimIsmi": "Konyaspor",
@@ -163,26 +123,50 @@
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 1,
     "superKupaSampiyonlugu": 1,
-    "teknikDirektor": "Ali Çamdalı",
+    "teknikDirektor": "İlhan Palut",
     "baskan": "Ömer Korkmaz",
     "renkler": ["Yeşil", "Beyaz"],
-    "sonSezonSiralamasi": 12,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 9,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
-  "gaziantep": {
+  "kocaelispor": {
+    "takimIsmi": "Kocaelispor",
+    "ülke": "Türkiye",
+    "lig": "Süper Lig",
+    "ligSampiyonlugu": 0,
+    "yerelKupaSampiyonlugu": 2,
+    "superKupaSampiyonlugu": 0,
+    "teknikDirektor": "Selçuk İnan",
+    "baskan": "Recep Durul",
+    "renkler": ["Yeşil", "Siyah"],
+    "sonSezonSiralamasi": 10,
+    "bagliOlduguOrganizasyon": "UEFA"
+  },
+  "alanyaspor": {
+    "takimIsmi": "Alanyaspor",
+    "ülke": "Türkiye",
+    "lig": "Süper Lig",
+    "ligSampiyonlugu": 0,
+    "yerelKupaSampiyonlugu": 0,
+    "superKupaSampiyonlugu": 0,
+    "teknikDirektor": "Joao Pereira",
+    "baskan": "Hasan Çavuşoğlu",
+    "renkler": ["Turuncu", "Yeşil"],
+    "sonSezonSiralamasi": 11,
+    "bagliOlduguOrganizasyon": "UEFA"
+  },
+  "gaziantepfk": {
     "takimIsmi": "Gaziantep FK",
     "ülke": "Türkiye",
     "lig": "Süper Lig",
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Selçuk İnan",
+    "teknikDirektor": "Mirel Radoi",
     "baskan": "Memik Yılmaz",
     "renkler": ["Kırmızı", "Siyah"],
-    "sonSezonSiralamasi": 13,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "sonSezonSiralamasi": 12,
+    "bagliOlduguOrganizasyon": "UEFA"
   },
   "eyupspor": {
     "takimIsmi": "Eyüpspor",
@@ -191,95 +175,51 @@
     "ligSampiyonlugu": 0,
     "yerelKupaSampiyonlugu": 0,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Arda Turan",
+    "teknikDirektor": "Atila Gerin",
     "baskan": "Murat Özkaya",
     "renkler": ["Eflatun", "Sarı"],
-    "sonSezonSiralamasi": 14,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "bodrumspor": {
-    "takimIsmi": "Bodrumspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "İsmet Taşdemir",
-    "baskan": "Fikret Öztürk",
-    "renkler": ["Yeşil", "Beyaz"],
     "sonSezonSiralamasi": 15,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "bagliOlduguOrganizasyon": "UEFA"
   },
-  "sivas": {
-    "takimIsmi": "Sivasspor",
+  "genclerbirligi": {
+    "takimIsmi": "Gençlerbirliği",
     "ülke": "Türkiye",
     "lig": "Süper Lig",
     "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 1,
+    "yerelKupaSampiyonlugu": 2,
     "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Bülent Uygun",
-    "baskan": "Bahattin Eken",
+    "teknikDirektor": "Metin Diyadin",
+    "baskan": "Osman Sungur",
+    "renkler": ["Kırmızı", "Siyah"],
+    "sonSezonSiralamasi": 14,
+    "bagliOlduguOrganizasyon": "UEFA"
+  },
+  "erzurumspor": {
+    "takimIsmi": "Erzurumspor FK",
+    "ülke": "Türkiye",
+    "lig": "Süper Lig",
+    "ligSampiyonlugu": 0,
+    "yerelKupaSampiyonlugu": 0,
+    "superKupaSampiyonlugu": 0,
+    "teknikDirektor": "Serkan Özbalta",
+    "baskan": "Ahmet Dal",
+    "renkler": ["Mavi", "Beyaz"],
+    "sonSezonSiralamasi": 1,
+    "bagliOlduguOrganizasyon": "UEFA",
+    "not": "2025-26 TFF 1. Lig şampiyonu olarak Süper Lig'e yükseldi"
+  },
+  "corumfk": {
+    "takimIsmi": "Çorum FK",
+    "ülke": "Türkiye",
+    "lig": "Süper Lig",
+    "ligSampiyonlugu": 0,
+    "yerelKupaSampiyonlugu": 0,
+    "superKupaSampiyonlugu": 0,
+    "teknikDirektor": "Uğur Uçar",
+    "baskan": "Oğuzhan Yalçın",
     "renkler": ["Kırmızı", "Beyaz"],
-    "sonSezonSiralamasi": 16,
+    "sonSezonSiralamasi": 4,
     "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "hatayspor": {
-    "takimIsmi": "Hatayspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Özhan Pulat",
-    "baskan": "Levent Mıstıkoğlu",
-    "renkler": ["Bordo", "Beyaz"],
-    "sonSezonSiralamasi": 17,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "kayserispor": {
-    "takimIsmi": "Kayserispor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 1,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Burak Yılmaz",
-    "baskan": "Ali Çamlı",
-    "renkler": ["Sarı", "Kırmızı"],
-    "sonSezonSiralamasi": 18,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "adanaDemir": {
-    "takimIsmi": "Adana Demirspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 0,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Michael Valkanis",
-    "baskan": "Bedir Pan",
-    "renkler": ["Mavi", "Lacivert"],
-    "sonSezonSiralamasi": 19,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
-  },
-  "bursaspor": {
-    "takimIsmi": "Bursaspor",
-    "ülke": "Türkiye",
-    "lig": "Süper Lig",
-    "ligSampiyonlugu": 1,
-    "yerelKupaSampiyonlugu": 0,
-    "superKupaSampiyonlugu": 0,
-    "teknikDirektor": "Pablo Martin Batalla",
-    "baskan": "Enes Çelik",
-    "renkler": ["Yeşil", "Beyaz"],
-    "sonSezonSiralamasi": 20,
-    "bagliOlduguOrganizasyon": "UEFA",
-    "uluslararasiKupalar": {}
+    "not": "2025-26 TFF 1. Lig play-off finalini kazanarak (2-0 Esenler Erokspor) tarihi ilk kez Süper Lig'e yükseldi"
   }
 }
